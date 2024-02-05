@@ -3,4 +3,4 @@
 
 Text
 
-[Next Entry;](entry04.md) | [Home](../README.md)
+[Next Entry](entry04.md) | [Home](../README.md)
